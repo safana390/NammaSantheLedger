@@ -87,14 +87,6 @@ This app helps small businesses replace manual notebooks with digital records. Y
 
 ---
 
-## 🤝 Contributing
-
-Fork the repository
-Create a new branch
-Make changes and commit
-Push and create a pull request
-
----
 
 ## 👨‍💻 Author
 
